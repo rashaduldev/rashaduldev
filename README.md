@@ -4,7 +4,6 @@
 🎤 Like to share my knowledge <br>
 📫 How to reach me? rashadul.dev@gmail.com <br>
 
-![Profile views]
 ![Visitor](https://komarev.com/ghpvc/?username=rashaduldevz&color=blueviolet&style=flat-square) 
 ([https://gpvc.arturio.dev/rashaduldev](https://rashaduldev.github.io/Rashadul-Islam-Portfullio/))  
 
