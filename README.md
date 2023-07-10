@@ -4,7 +4,9 @@
 🎤 Like to share my knowledge <br>
 📫 How to reach me? rashadul.dev@gmail.com <br>
 
-![Profile views]([https://gpvc.arturio.dev/rashaduldev](https://rashaduldev.github.io/Rashadul-Islam-Portfullio/))  
+![Profile views]
+![Visitor](https://komarev.com/ghpvc/?username=rashaduldevz&color=blueviolet&style=flat-square) 
+([https://gpvc.arturio.dev/rashaduldev](https://rashaduldev.github.io/Rashadul-Islam-Portfullio/))  
 
 I’m a Full Stack Developer passionate about making error-free websites with Laravel and React.js Framework—a self-taught fast-learner full-stack developer from Dhaka. I have a passion for learning and sharing my knowledge with others as publicly as possible. Now I'm working at Bangladesh Outsourcing Company (BDOSC) as a Full-Stack Web Developer. I love to work with new technologies and develop web applications like Laravel Framework. And love to solve real-world problems. 
 
