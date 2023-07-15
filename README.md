@@ -7,7 +7,7 @@
 ![Visitor](https://komarev.com/ghpvc/?username=rashaduldevz&color=blueviolet&style=flat-square) 
 ([https://gpvc.arturio.dev/rashaduldev](https://rashaduldev.github.io/Rashadul-Islam-Portfullio/))  
 
-I’m a Full Stack Developer passionate about making error-free websites with Laravel and React.js Framework—a self-taught fast-learner full-stack developer from Dhaka. I have a passion for learning and sharing my knowledge with others as publicly as possible. Now I'm working at Bangladesh Outsourcing Company (BDOSC) as a Full-Stack Web Developer. I love to work with new technologies and develop web applications like Laravel Framework. And love to solve real-world problems. 
+I’m a Junior web Developer passionate about making error-free websites with Laravel and React.js Framework—a self-taught fast-learner full-stack developer from Dhaka. I have a passion for learning and sharing my knowledge with others as publicly as possible. Now I'm working at Bangladesh Outsourcing Company (BDOSC) as a Full-Stack Web Developer. I love to work with new technologies and develop web applications like Laravel Framework. And love to solve real-world problems. 
 
 I am strategic, goal-oriented, and always work with an end goal in mind. Currently, I am learning how to improve the performance of both responsive and progressive web applications for a better user experience. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences in web development.
 
