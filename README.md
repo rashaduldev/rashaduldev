@@ -50,6 +50,7 @@ I like to explore new technologies and develop software solutions and quick hack
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/rashaduldev)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
 ![Last-commit](https://img.shields.io/github/last-commit/rashaduldev/rashaduldev?style=flat-square&color=blueviolet)
+![Last Commit](https://img.shields.io/github/last-commit/rashaduldev/rashaduldev?label=Last%20Commit&style=flat-square&color=blueviolet&logo=github)
 
 
 <div>
