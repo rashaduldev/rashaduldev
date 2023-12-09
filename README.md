@@ -84,7 +84,7 @@ I like to explore new technologies and develop software solutions and quick hack
 
 <div>
   <a href="https://github.com/rashaduldev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rashaduldev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rashaduldev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true&hide=stars,commits,prs,issues,contribs"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashaduldev&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
