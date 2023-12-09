@@ -50,12 +50,7 @@ I like to explore new technologies and develop software solutions and quick hack
 ![Notepad++](https://img.shields.io/badge/Notepad++-%230078D6.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)
 
 ### Social Links
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
-<a href="https://www.facebook.com/mdrashadulislamrabby6452">
+<a href="">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 
