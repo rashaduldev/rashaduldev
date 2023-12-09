@@ -1,6 +1,5 @@
-### 
-<img src="https://i.ibb.co/CWj5GjC/Untitled-design.png" width="full">
-Hi, I'm Rashadul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
+### <img src="https://i.ibb.co/CWj5GjC/Untitled-design.png" width="full">
+Hi, I'm Rashadul Islam<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 👑 I am Web Developer <br>
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge <br>
@@ -81,7 +80,6 @@ I like to explore new technologies and develop software solutions and quick hack
         <img src="https://api.githubtrends.io/user/svg/rashaduldev/repos?time_range=one_year&theme=dark" style="height: 200px; flex: 1;" alt="GitHub Trends">
          <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" style="height: 200px; flex: 1;" alt="GitHub Streak">
 </div>
-
 
 <div>
   <a href="https://github.com/rashaduldev">
