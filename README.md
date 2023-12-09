@@ -79,6 +79,8 @@ I like to explore new technologies and develop software solutions and quick hack
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://api.githubtrends.io/user/svg/rashaduldev/langs?time_range=one_year&theme=dark)](https://git.io/streak-stats)
+
 
 <div>
   <a href="https://github.com/rashaduldev">
