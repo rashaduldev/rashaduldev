@@ -77,14 +77,13 @@ I like to explore new technologies and develop software solutions and quick hack
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
 ![Last Commit](https://img.shields.io/github/last-commit/rashaduldev/rashaduldev?label=Last%20Commit&style=flat-square&color=blueviolet&logo=github)
 
-[![GitHub Streak](https://api.githubtrends.io/user/svg/rashaduldev/langs?time_range=one_year&theme=dark)](https://git.io/streak-stats)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashaduldev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true&hide=stars,commits,prs,issues,contribs)
 
 <div>
   <a href="https://github.com/rashaduldev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rashaduldev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true&hide=stars,commits,prs,issues,contribs"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rashaduldev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashaduldev&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
