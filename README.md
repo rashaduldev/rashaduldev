@@ -86,3 +86,5 @@ I like to explore new technologies and develop software solutions and quick hack
 </div>
 
 <img src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
