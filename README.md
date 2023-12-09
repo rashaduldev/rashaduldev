@@ -85,6 +85,4 @@ I like to explore new technologies and develop software solutions and quick hack
   </a>
 </div>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=rashaduldev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
 <img src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
