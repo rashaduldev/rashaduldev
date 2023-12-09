@@ -77,7 +77,8 @@ I like to explore new technologies and develop software solutions and quick hack
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
 ![Last Commit](https://img.shields.io/github/last-commit/rashaduldev/rashaduldev?label=Last%20Commit&style=flat-square&color=blueviolet&logo=github)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rashaduldev/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rashaduldev/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 
