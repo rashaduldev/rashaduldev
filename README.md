@@ -1,5 +1,6 @@
 ### <img src="https://i.ibb.co/CWj5GjC/Untitled-design.png" width="full">
-Hi, I'm Rashadul Islam<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
+Hi, I'm Rashadul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"><br>
+
 👑 I am Web Developer <br>
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge <br>
