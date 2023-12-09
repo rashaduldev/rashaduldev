@@ -6,10 +6,11 @@ Hi, I'm Rashadul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 🎤 Like to share my knowledge <br>
 📫 How to reach me? rashadul.dev@gmail.com <br>
 
+
 ![Visitor](https://komarev.com/ghpvc/?username=rashaduldevz&color=blueviolet&style=flat-square) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-odd--self.surge.sh-blueviolet?style=flat-square)](https://odd-self.surge.sh)
 
-I’m a Junior web Developer passionate about making error-free websites with Laravel and React.js Framework—a self-taught fast-learner full-stack developer from Dhaka. I have a passion for learning and sharing my knowledge with others as publicly as possible. Now I'm working at Bangladesh Outsourcing Company (BDOSC) as a Full-Stack Web Developer. I love to work with new technologies and develop web applications like Laravel Framework. And love to solve real-world problems. 
+I’m a Frontend web Developer passionate about making error-free websites with Laravel and React.js Framework—a self-taught fast-learner full-stack developer from Dhaka. I have a passion for learning and sharing my knowledge with others as publicly as possible. Now I'm working at Bangladesh Outsourcing Company (BDOSC) as a Full-Stack Web Developer. I love to work with new technologies and develop web applications like NextJS Framework. And love to solve real-world problems. 
 
 I am strategic, and goal-oriented, and always work with an end goal in mind. Currently, I am learning how to improve the performance of both responsive and progressive web applications for a better user experience. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences in web development.
 
@@ -27,11 +28,12 @@ I like to explore new technologies and develop software solutions and quick hack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React%20Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
+
 ![PHP7](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-F05340?style=for-the-badge&logo=laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <br>
 ** Like to use: **
@@ -45,6 +47,8 @@ I like to explore new technologies and develop software solutions and quick hack
 
 ![vs-code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![Notepad](https://img.shields.io/badge/Notepad-%23010101.svg?style=for-the-badge&logo=notepad&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-%230078D6.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)
 
 # Github Statistics
 
@@ -56,8 +60,9 @@ I like to explore new technologies and develop software solutions and quick hack
 
 <div>
   <a href="https://github.com/rashaduldev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rashaduldev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashaduldev&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rashaduldev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashaduldev&layout=compact&langs_count=7&theme=radical"/>
+  </a>
 </div>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=rashaduldev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
