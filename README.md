@@ -80,7 +80,7 @@ I like to explore new technologies and develop software solutions and quick hack
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rashaduldev/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rashaduldev/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
-
+<img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" style="width: 100%;" alt="GitHub Streak">
 
 <div>
   <a href="https://github.com/rashaduldev">
