@@ -78,11 +78,8 @@ I like to explore new technologies and develop software solutions and quick hack
 ![Last Commit](https://img.shields.io/github/last-commit/rashaduldev/rashaduldev?label=Last%20Commit&style=flat-square&color=blueviolet&logo=github)
 
 <div style="display: flex;">
-      <div>
-          <h1>Contributions</h1>
-          <img src="https://api.githubtrends.io/user/svg/rashaduldev/repos?time_range=one_year&theme=dark" style="height: 200px; flex: 1;" alt="GitHub Trends">
-      </div>
-    <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" style="height: 200px; flex: 1;" alt="GitHub Streak">
+        <img src="https://api.githubtrends.io/user/svg/rashaduldev/repos?time_range=one_year&theme=dark" style="height: 200px; flex: 1;" alt="GitHub Trends">
+         <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" style="height: 200px; flex: 1;" alt="GitHub Streak">
 </div>
 
 
