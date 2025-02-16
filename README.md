@@ -1,4 +1,4 @@
-### <img src="https://i.ibb.co/TbXSQ4H/github.png" width="full">
+### <img src="https://res.cloudinary.com/de8yddexc/image/upload/v1739679600/rashadul/rashadul.png" width="full">
 Hi, I'm Rashadul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"><br>
 
 👑 I am Web Developer <br>
@@ -10,13 +10,7 @@ Hi, I'm Rashadul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 ![Visitor](https://komarev.com/ghpvc/?username=rashaduldevz&color=blueviolet&style=flat-square) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-www.rashadul.com-blueviolet?style=flat-square)](https://rashadul-resume.vercel.app)
 
-I’m a Frontend web Developer passionate about making error-free websites with Laravel and React.js Framework—a self-taught fast-learner full-stack developer from Dhaka. I have a passion for learning and sharing my knowledge with others as publicly as possible. Now I'm working at Bangladesh Outsourcing Company (BDOSC) as a Full-Stack Web Developer. I love to work with new technologies and develop web applications like NextJS Framework. And love to solve real-world problems. 
-
-I am strategic, and goal-oriented, and always work with an end goal in mind. Currently, I am learning how to improve the performance of both responsive and progressive web applications for a better user experience. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences in web development.
-
-I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include Laravel, ReactJS, JavaScript as well and PHP.
-
-I like to explore new technologies and develop software solutions and quick hacks. I’m currently learning React.js, React Native, Node.js, Next.js, MongoDB, React Native and Flutter. I want to collaborate on Laravel and MERN Stack projects with other passionate developers. I really love to travel and explore new things and new places in my free time.
+I'm a Frontend Web Developer from Dhaka, passionate about Laravel and React.js. Currently working at BDOSC as a Frontend Web Developer, I focus on building error-free web applications and solving real-world problems. I enjoy learning, sharing knowledge, and improving web performance. Skilled in ReactJS, JavaScript, and PHP, I'm also learning React Native, Node.js, Next.js, MongoDB, and Flutter. I love collaborating on Laravel and MERN Stack projects and exploring new places in my free time.
 
 ### <a>👨‍💻 Skills & Experiance:</a>
 
