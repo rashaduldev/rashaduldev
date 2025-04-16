@@ -8,7 +8,7 @@ Hi, I'm Rashadul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 
 
 ![Visitor](https://komarev.com/ghpvc/?username=rashaduldevz&color=blueviolet&style=flat-square) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.rashadul.com-blueviolet?style=flat-square)](https://rashadul-resume.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-www.rashadul.com-blueviolet?style=flat-square)](https://rashaduldev.vercel.app)
 
 I'm a Frontend Web Developer from Dhaka, passionate about Laravel and React.js. Currently working at BDOSC as a Frontend Web Developer, I focus on building error-free web applications and solving real-world problems. I enjoy learning, sharing knowledge, and improving web performance. Skilled in ReactJS, JavaScript, and PHP, I'm also learning React Native, Node.js, Next.js, MongoDB, and Flutter. I love collaborating on Laravel and MERN Stack projects and exploring new places in my free time.
 
