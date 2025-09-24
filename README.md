@@ -4,13 +4,13 @@ Hi, I'm Rashadul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 👑 I am Web Developer <br>
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge <br>
-📫 How to reach me? rashadul.dev@gmail.com <br>
+📫 How to reach me? [https://uivibe.me](https://uivibe.me/) <br>
 
 
 ![Visitor](https://komarev.com/ghpvc/?username=rashaduldevz&color=blueviolet&style=flat-square) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-www.rashadul.com-blueviolet?style=flat-square)](https://rashaduldev.vercel.app)
 
-I'm a Frontend Web Developer from Dhaka, passionate about Laravel and React.js. Currently working at BDOSC as a Frontend Web Developer, I focus on building error-free web applications and solving real-world problems. I enjoy learning, sharing knowledge, and improving web performance. Skilled in ReactJS, JavaScript, and PHP, I'm also learning React Native, Node.js, Next.js, MongoDB, and Flutter. I love collaborating on Laravel and MERN Stack projects and exploring new places in my free time.
+Frontend Web Developer passionate about crafting pixel-perfect, responsive websites that blend clean code with engaging design. Skilled in JavaScript, TypeScript, React.js, Next.js, and Tailwind CSS, I turn ideas into interactive, user-friendly experiences — always aiming for flawless performance and 100% client satisfaction.
 
 ### <a>👨‍💻 Skills & Experience:</a>
 
@@ -19,14 +19,14 @@ I'm a Frontend Web Developer from Dhaka, passionate about Laravel and React.js. 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-%2300C7B7.svg?style=for-the-badge&logo=nosql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React%20Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
-![PHP7](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![GulpJS](https://img.shields.io/badge/Gulp-DA4645?style=for-the-badge&logo=gulp&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 
 <br>
 <a>** Like to use: **</a>
@@ -44,7 +44,7 @@ I'm a Frontend Web Developer from Dhaka, passionate about Laravel and React.js. 
 ![Notepad++](https://img.shields.io/badge/Notepad++-%230078D6.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)
 
 ### Social Links
-<a href="">
+<a href="https://www.facebook.com/rashaduldev">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 
