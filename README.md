@@ -8,8 +8,7 @@ Hi, I'm Rashadul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 📫 If main domain not working? Here deploy vercel [https://rashaduldev01.vercel.app](https://rashaduldev01.vercel.app) <br>
 
 
-![Visitor](https://komarev.com/ghpvc/?username=rashaduldevz&color=blueviolet&style=flat-square) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.rashadul.com-blueviolet?style=flat-square)](https://rashaduldev.vercel.app)
+![Visitor](https://komarev.com/ghpvc/?username=rashaduldevz&color=blueviolet&style=flat-square)
 
 Frontend Web Developer passionate about crafting pixel-perfect, responsive websites that blend clean code with engaging design. Skilled in JavaScript, TypeScript, React.js, Next.js, and Tailwind CSS, I turn ideas into interactive, user-friendly experiences — always aiming for flawless performance and 100% client satisfaction.
 
