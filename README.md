@@ -1,4 +1,4 @@
-### <img src="https://res.cloudinary.com/de8yddexc/image/upload/v1746362002/github/j0upw2q1odkgntatwzic.png" width="100%">
+### <img src="https://res.cloudinary.com/de8yddexc/image/upload/v1774342400/ekgm4ldphypwv2uqsznx.png" width="100%">
 
 Hi, I'm Rashadul Islam 👋  
 
@@ -7,7 +7,7 @@ Hi, I'm Rashadul Islam 👋
 📚 Documentation-focused developer  
 🎯 Always learning & improving  
 📫 Main Domain [https://uivibe.me](https://uivibe.me/) <br>
-📫 If main domain not working? Here deploy vercel [https://rashaduldev01.vercel.app](https://rashaduldev01.vercel.app) <br>
+📫 If main domain not working? Here deploy vercel [https://rashaduldev.vercel.app](https://rashaduldev.vercel.app) <br>
 
 ![Visitor](https://komarev.com/ghpvc/?username=rashaduldevz&color=blueviolet&style=flat-square)
 
@@ -35,8 +35,11 @@ Frontend Web Developer passionate about crafting pixel-perfect, responsive websi
 - JavaScript (ES6+)  
 - TypeScript  
 - React.js  
-- Next.js  
-- Tailwind CSS  
+- Next.js
+- Astro
+- Gulpjs  
+- Tailwind CSS
+- Nodejs
 - Git & GitHub  
 
 
