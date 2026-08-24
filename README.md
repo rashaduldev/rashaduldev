@@ -17,11 +17,11 @@
 
 ## 🧑‍💻 About Me
 
-> Frontend Web Developer passionate about crafting **pixel-perfect, responsive websites** that blend clean code with engaging design. Skilled in **JavaScript, TypeScript, React.js, Next.js, and Tailwind CSS**, I turn ideas into interactive, user-friendly experiences.
+> Software Engineer passionate about crafting **pixel-perfect, responsive websites** that blend clean code with engaging design. Skilled in **JavaScript, TypeScript, React.js, Next.js, and Tailwind CSS**, I turn ideas into interactive, user-friendly experiences.
 
 ```txt
 const rashadul = {
-    role: "Junior Frontend Developer",
+    role: "Junior Software Engineer",
     focus: ["Clean Code", "Documentation", "Scalable UI"],
     currentlyLearning: "Advanced React Patterns & System Design",
     funFact: "I believe good docs are as important as good code"
@@ -89,7 +89,7 @@ const rashadul = {
 
 ## 🎯 Goals
 
-- 💪 Become a strong Frontend Engineer
+- 💪 Become a strong Software Engineer
 - 🌍 Contribute to open-source projects
 - 🚀 Master modern frontend technologies
 
@@ -127,8 +127,8 @@ const rashadul = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Website-uivibe.me-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://uivibe.me/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rashaduldevz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rashaduldev.vercel.app-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://rashaduldev.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rashaduldev)
 
 </div>
 
